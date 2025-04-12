@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @colaums
 - 👀 I’m interested in crypto.
-- 🌱 I’m currently learning about crypt.
+- 🌱 I’m currently learning about crypto.
 - 💞️ I’m looking to collaborate on nothing.
 
 <!---
